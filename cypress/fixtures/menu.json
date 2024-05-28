@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "milanesa",
+    "thumbnail": "https://spaceholder.cc/i/100x100",
+    "price": 8000
+  },
+  {
+    "id": 2,
+    "name": "fideos",
+    "thumbnail": "https://spaceholder.cc/i/100x100",
+    "price": 4000
+  },
+  {
+    "id": 3,
+    "name": "arroz",
+    "thumbnail": "https://spaceholder.cc/i/100x100",
+    "price": 3000
+  }
+]
